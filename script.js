@@ -89,4 +89,15 @@ const questions = [
       { text: "Jacques Kallis", correct: false },
     ],
   },
+  {
+    question: "What are the colors in the Indian national flag? ",
+    answers: [
+      { text: "White", correct: true },
+      { text: "Yellow", correct: false },
+      { text: "Orange", correct: true },
+      { text: "Green", correct: true },
+    ],
+
+  },
+
 ];
